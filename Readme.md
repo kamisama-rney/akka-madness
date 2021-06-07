@@ -1,4 +1,4 @@
-#Madness Order System
+# Madness Order System
 
 This application is written in Scala 2.13 and uses a framework known
 as Akka. Akka is an actor system which provides all the tools for a
